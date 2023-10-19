@@ -19,32 +19,40 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Booked Facilities: <br/>
+<img src="https://github.com/Vlad774/SQL-test/blob/main/Booked_facilities.png"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Created student table:  <br/>
+<img src="https://github.com/Vlad774/SQL-test/blob/main/Created%20student%20table.png"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Customer_ID_spent_110_with-ID_1_2: <br/>
+<img src="https://github.com/Vlad774/SQL-test/blob/main/Customer_ID_spent_110_with-ID_1_2.png"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+How many films begin with letter J:  <br/>
+<img src="https://github.com/Vlad774/SQL-test/blob/main/How%20many%20films%20begin%20with%20letter%20J.png"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+INSERT teacher information:  <br/>
+<img src="https://github.com/Vlad774/SQL-test/blob/main/INSERT%20teacher%20information.png"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Joint date of members:  <br/>
+<img src="https://github.com/Vlad774/SQL-test/blob/main/Joint%20date%20of%20members.png"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+List of bookings by David:  <br/>
+<img src="https://github.com/Vlad774/SQL-test/blob/main/List%20of%20bookings%20by%20David.png"/>
+<br />
+<br />
+List of start time:  <br/>
+<img src="https://github.com/Vlad774/SQL-test/blob/main/List%20of%20start%20time.png"/>
+<br />
+<br />
+What customer has the highest customer ID number whose name starts with an E and has an address ID lower than 500:  <br/>
+<img src="https://github.com/Vlad774/SQL-test/blob/main/Whatcustomer%20has%20the%20highest%20customer%20ID%20number%20whose%20name%20starts%20with%20an%20E%20and%20has%20an%20address%20ID%20lower%20than%20500.png"/>
 </p>
 
 <!--
