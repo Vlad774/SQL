@@ -22,8 +22,8 @@ This SQL-driven project streamlines operations and enhances data-driven decision
 
 <h2>Languages and Utilities Used</h2>
 
-- <b></b> 
-- <b></b>
+- <b>SQL</b> 
+  
 
 <h2>Environments Used </h2>
 
