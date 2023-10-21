@@ -5,6 +5,17 @@
 <h2>Description</h2>
 
 <br />
+Data Management Project Highlights: SQL in Action
+In our data management project, we wield the power of SQL to:
+Booked Facilities: Efficiently manage reservations.
+Student Tables: Organize student records.
+Customer ID Spending: Analyze purchasing behavior.
+Film Analysis: Identify 'J' films.
+Teacher Info: Insert educator data.
+Joint Dates: Discover member connections.
+List of Bookings: Track reservations.
+Start Times: Schedule events and bookings.
+This SQL-driven project streamlines operations and enhances data-driven decision-making for diverse needs.
 
 
 <h2>Languages and Utilities Used</h2>
