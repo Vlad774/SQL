@@ -3,6 +3,7 @@
  
 
 <h2>Description</h2>
+<br />
 Data Management Project Highlights: SQL in Action
 In our data management project, we wield the power of SQL to:
 Booked Facilities: Efficiently manage reservations.
